@@ -1,0 +1,8 @@
+CABra ID  	 27
+ANA ID    	 15630000
+Longitude 	 -63.016   	 dd
+Latitude  	 -7.478    	 dd
+Area      	 1109083.10	 km²
+Elevation 	 585.72    	 m
+ 
+This catchment is not totally covered by the Xavier et al. (2016) dataset, please use ERA5 or ENS data
